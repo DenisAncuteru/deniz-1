@@ -1,0 +1,45 @@
+body,html{
+    width: 100%;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    background: url(Laptop.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1{
+    font-size: 3rem;
+    color: #e2dbdb;
+}
+.btn{
+    font-weight: 700;
+    border-radius: 300px;
+    text-transform: uppercase;
+}
+}
+.btn-xl{
+    padding: 1rem 2rem;
+ 
+}
+.buffer{
+    height: 7rem;
+}
+.btn-primary{
+    background-color:#F05F44 ;
+    border-color: #F05F44;
+}
+.btn-primary:hover{
+    transition: 1s;
+    transform: scale(1.2);
+    background-color:rgb(189, 76, 57) ;
+    border-color: #F05F44;}
+
+    hr{
+        background-color: #F05F44;
+        width: 30px;
+        height: 2px;
+        border-radius: 30px;
+    }
+
+
